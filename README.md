@@ -6,14 +6,20 @@
   <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/lyssar\_\_" target="_blank">
-    <img alt="Twitter: lyssar\_\_" src="https://img.shields.io/twitter/follow/lyssar\_\_.svg?style=social" />
+  <a href="https://twitter.com/lyssar__" target="_blank">
+    <img alt="Twitter: lyssar__" src="https://img.shields.io/twitter/follow/lyssar__.svg?style=social" />
+  </a>
+  <a href="https://twitch.tv/lyssar_" target="_blank">
+    <img alt="Twitch: lyssar_" src="https://img.shields.io/twitch/status/lyssar_?style=social" />
+  </a>
+  <a href="https://youtube.com/c/lyssar" target="_blank">
+    <img alt="Youtube: lyssar" src="https://img.shields.io/badge/YouTube-Follow-red" />
   </a>
 </p>
 
 > This repository is a collection of create mod schematics which I created over time. Most of them are created while playing ATM6 and ATM7 modpack. See description in every subfolder.
 
-### 🏠 [Homepage](lyssar.me)
+### 🏠 [Homepage](https://lyssar.me)
 
 ## Usage
 
@@ -26,8 +32,10 @@
 
 👤 **Lyssar**
 
-* Website: lyssar
-* Twitter: [@lyssar\_\_](https://twitter.com/lyssar\_\_)
+* Website: [lyssar.me](https://lyssar.me)
+* Twitter: [@lyssar__](https://twitter.com/lyssar__)
+* Twitch.tv: [lyssar_](https://twitter.com/lyssar_)
+* YouTube: [lyssar](https://youtube.com/c/lyssar)
 * Github: [@lyssar](https://github.com/lyssar)
 
 ## Show your support
