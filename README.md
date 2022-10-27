@@ -28,6 +28,10 @@
 > To use the a schematic file put the file into the `YOUR_MC_FOLDER/schematics` and use the schematic board and canon ingame to place the schematic
 
 
+## Available themes
+
+- [Atlantis](/atlantis/)
+
 ## Author
 
 👤 **Lyssar**
@@ -44,8 +48,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [Sebastian](https://github.com/lyssar).<br />
+Copyright © 2022 [Lyssar](https://github.com/lyssar).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
